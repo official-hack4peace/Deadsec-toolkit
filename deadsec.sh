@@ -3,52 +3,70 @@
 grn="\e[92m"
 rset="\e[0m"
 # ASCII
-
-
-echo -e "$grn                       uuuuuuuuuuuuuuuuuuuuu."
-echo -e "$grn                   .u$$$$$$$$$$$$$$$$$$$$$$$$$$W."
-                 u$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$Wu.
-               $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$i
-              $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-         `    $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-           .i$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$i
-           $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$W
-          .$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$W
-         .$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$i
-         #$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$.
-         W$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-$u       #$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$~
-$#      `"$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-$i        $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-$$        #$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-$$         $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-#$.        $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$#
- $$      $iW$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$!
- $$i      $$$$$$$#"" `"""#$$$$$$$$$$$$$$$$$#""""""#$$$$$$$$$$$$$$$W
- #$$W    `$$$#"            "       !$$$$$`           `"#$$$$$$$$$$#
-  $$$     ``                 ! !iuW$$$$$                 #$$$$$$$#
-  #$$    $u                  $   $$$$$$$                  $$$$$$$~
-   "#    #$$i.               #   $$$$$$$.                 `$$$$$$
-          $$$$$i.                """#$$$$i.               .$$$$#
-          $$$$$$$$!         .   `    $$$$$$$$$i           $$$$$
-          `$$$$$  $iWW   .uW`        #$$$$$$$$$W.       .$$$$$$#
-            "#$$$$$$$$$$$$#`          $$$$$$$$$$$iWiuuuW$$$$$$$$W
-               !#""    ""             `$$$$$$$##$$$$$$$$$$$$$$$$
-          i$$$$    .                   !$$$$$$ .$$$$$$$$$$$$$$$#
-         $$$$$$$$$$`                    $$$$$$$$$Wi$$$$$$#"#$$`
-         #$$$$$$$$$W.                   $$$$$$$$$$$#   ``
-          `$$$$##$$$$!       i$u.  $. .i$$$$$$$$$#""
-             "     `#W       $$$$$$$$$$$$$$$$$$$`      u$#
-                            W$$$$$$$$$$$$$$$$$$      $$$$W
-                            $$`!$$$##$$$$``$$$$      $$$$!
-                           i$" $$$$  $$#"`  """     W$$$$
-                                                   W$$$$!
-                      uW$$  uu  uu.  $$$  $$$Wu#   $$$$$$
-                     ~$$$$iu$$iu$$$uW$$! $$$$$$i .W$$$$$$
-             ..  !   "#$$$$$$$$$$##$$$$$$$$$$$$$$$$$$$$#"
-             $$W  $     "#$$$$$$$iW$$$$$$$$$$$$$$$$$$$$$W
-             $#`   `       ""#$$$$$$$$$$$$$$$$$$$$$$$$$$$
-                              !$$$$$$$$$$$$$$$$$$$$$#`
-                              $$$$$$$$$$$$$$$$$$$$$$!
-                            $$$$$$$$$$$$$$$$$$$$$$$`
-                             $$$$$$$$$$$$$$$$$$$$"
+echo -e "$grn                 __xxxxxxxxxxxxxxxx___.
+                        _gxXXXXXXXXXXXXXXXXXXXXXXXX!x_
+                   __x!XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX!x_
+                ,gXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx_
+              ,gXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX!_
+            _!XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX!.
+          gXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXs
+        ,!XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX!.
+       g!XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX!
+      iXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX!
+     ,XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx
+     !XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx
+   ,XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx
+   !XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXi
+  dXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX!
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX!
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX!
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX!
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX!
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX!
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  !XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+   XXXXXXXXXXXXXXXXXXXf~~~VXXXXXXXXXXXXXXXXXXXXXXXXXXvvvvvvvvXXXXXXXXXXXXXX!
+   !XXXXXXXXXXXXXXXf`       'XXXXXXXXXXXXXXXXXXXXXf`          '~XXXXXXXXXXP
+    vXXXXXXXXXXXX!            !XXXXXXXXXXXXXXXXXX!              !XXXXXXXXX
+     XXXXXXXXXXv`              'VXXXXXXXXXXXXXXX                !XXXXXXXX!
+     !XXXXXXXXX.                 YXXXXXXXXXXXXX!                XXXXXXXXX
+      XXXXXXXXX!                 ,XXXXXXXXXXXXXX                VXXXXXXX!
+      'XXXXXXXX!                ,!XXXX ~~XXXXXXX               iXXXXXX~
+       'XXXXXXXX               ,XXXXXX   XXXXXXXX!             xXXXXXX!
+        !XXXXXXX!xxxxxxs______xXXXXXXX   'YXXXXXX!          ,xXXXXXXXX
+         YXXXXXXXXXXXXXXXXXXXXXXXXXXX`    VXXXXXXX!s. __gxx!XXXXXXXXXP
+          XXXXXXXXXXXXXXXXXXXXXXXXXX!      'XXXXXXXXXXXXXXXXXXXXXXXXX!
+          XXXXXXXXXXXXXXXXXXXXXXXXXP        'YXXXXXXXXXXXXXXXXXXXXXXX!
+          XXXXXXXXXXXXXXXXXXXXXXXX!     i    !XXXXXXXXXXXXXXXXXXXXXXXX
+          XXXXXXXXXXXXXXXXXXXXXXXX!     XX   !XXXXXXXXXXXXXXXXXXXXXXXX
+          XXXXXXXXXXXXXXXXXXXXXXXXx_   iXX_,_dXXXXXXXXXXXXXXXXXXXXXXXX
+          XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXP
+          XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX!
+           ~vXvvvvXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXf
+                    'VXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXvvvvvv~
+                      'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX~
+                  _    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXv`
+                 -XX!  !XXXXXXX~XXXXXXXXXXXXXXXXXXXXXX~   Xxi
+                  YXX  '~ XXXXX XXXXXXXXXXXXXXXXXXXX`     iXX`
+                  !XX!    !XXX` XXXXXXXXXXXXXXXXXXXX      !XX
+                  !XXX    '~Vf  YXXXXXXXXXXXXXP YXXX     !XXX
+                  !XXX  ,_      !XXP YXXXfXXXX!  XXX     XXXV
+                  !XXX !XX           'XXP 'YXX!       ,.!XXX!
+                  !XXXi!XP  XX.                  ,_  !XXXXXX!
+                  iXXXx X!  XX! !Xx.  ,.     xs.,XXi !XXXXXXf
+                   XXXXXXXXXXXXXXXXX! _!XXx  dXXXXXXX.iXXXXXX
+                   VXXXXXXXXXXXXXXXXXXXXXXXxxXXXXXXXXXXXXXXX!
+                   YXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXV
+                    'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX!
+                    'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXf
+                       VXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXf
+                         VXXXXXXXXXXXXXXXXXXXXXXXXXXXXv`
+                          ~vXXXXXXXXXXXXXXXXXXXXXXXf`
+                              ~vXXXXXXXXXXXXXXXXv~
+                                 '~VvXXXXXXXV~~
+                                       ~~"

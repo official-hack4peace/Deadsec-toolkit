@@ -39,7 +39,7 @@ echo -e "$grn                 __xxxxxxxxxxxxxxxx___.
       'XXXXXXXX                 ,!XXXX ~~XXXXXXX               iXXXXXX~
        'XXXXXXXX               ,XXXXXX   XXXXXXXX             xXXXXXX
         !XXXXXXX!xxxxxxs______xXXXXXXX   'YXXXXXX           ,xXXXXXXXX
-         YXXXXXXXXXXXXXXXXXXXXXXXXXXX`    VXXXXXXX!s. __gxx!XXXXXXXXXP
+         YXXXXXXXXXXXXXXXXXXXXXXXXXXX`    VXXXXXXX|s. __gxx|XXXXXXXXXP
           XXXXXXXXXXXXXXXXXXXXXXXXXX       'XXXXXXXXXXXXXXXXXXXXXXXXX
           XXXXXXXXXXXXXXXXXXXXXXXXXP        'YXXXXXXXXXXXXXXXXXXXXXXX
           XXXXXXXXXXXXXXXXXXXXXXXX      i     XXXXXXXXXXXXXXXXXXXXXXXX
@@ -69,4 +69,4 @@ echo -e "$grn                 __xxxxxxxxxxxxxxxx___.
                           ~vXXXXXXXXXXXXXXXXXXXXXXXf`
                               ~vXXXXXXXXXXXXXXXXv~
                                  '~VvXXXXXXXV~~
-                                       ~"
+                                       "

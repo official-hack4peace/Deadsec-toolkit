@@ -53,7 +53,7 @@ echo -e "$grn                 __xxxxxxxxxxxxxxxx___.
                   _    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXv`
                  -XX!   XXXXXXX~XXXXXXXXXXXXXXXXXXXXXX~   Xxi
                   YXX  '~ XXXXX XXXXXXXXXXXXXXXXXXXX`     iXX`
-                   XX!     XXX` XXXXXXXXXXXXXXXXXXXX      !XX
+                   XX!     XXX` XXXXXXXXXXXXXXXXXXXX       XX
                    XXX    '~Vf  YXXXXXXXXXXXXXP YXXX     !XXX
                    XXX  ,_      !XXP YXXXfXXXX!  XXX     XXXV
                    XXX  XX           'XXP 'YXX!       ,.!XXX!

